@@ -63,13 +63,18 @@ theta=linear_regression(x1_Scaled,y1_Scaled)
 ```
 
 ## Output:
-![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/896598f3-6f61-4004-b4bd-5eebadd77124)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/238f0c53-4eab-46a9-8018-aeb2f17ff47b)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/772c1974-1a09-4eb8-ab74-08994d08db09)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/e8611d63-8fa5-476b-b098-27768c7257b7)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/98da229e-54ea-4773-866c-934082d8b6ad)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/006dfdcb-88cb-4747-bc72-3e778bd7d8ef)
-
+### head()
+![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/25dfd0c6-3f18-4827-89b4-ae6ced65f507)
+### x
+![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/118527ee-e9cf-49e6-9abc-e8d33ae6b75e)
+![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/b13e1091-ba43-4af7-8a8b-88768cd7418e)
+![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/c3f587c3-6002-4097-a36f-54022269e14c)
+![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/668c8ef7-d999-448d-bf78-4a7eb8d9a542)
+![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/d42a73e0-9947-434f-9bb0-44bae273cfe5)
+![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/a0b32e44-3dc7-453d-8a42-3fc0efff0678)
+![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/d4aad1bb-d769-4f24-8654-7e3acc3b6df4)
+### Predicted value
+![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/8eaac0c0-719c-496f-8c90-d5619cd8d2f3)
 
 
 ## Result:
