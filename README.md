@@ -1,6 +1,4 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
-## NAME: S.SANJAY BALAJI
-## REGISTER NUMBER: 212223240149
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
